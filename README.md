@@ -23,3 +23,6 @@ burme-ai-system/
     ├── preprocess.py   # Text preprocessing
     └── model.py       # AI model code
 ```
+git add README.md
+git commit -m "Test CI/CD pipeline"
+git push origin main
