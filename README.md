@@ -11,3 +11,15 @@ myanmar-ai-system/
 ├── requirements.txt    # dependencies
 └── README.md           # ပရောဂျက်ရှင်းလင်းချက်
 ```
+```
+burme-ai-system/
+├── .gitignore          # Git က ignore လုပ်ရမယ့် ဖိုင်များ
+├── requirements.txt    # Python dependencies
+├── setup.py           # Package installation ဖိုင် (optional)
+├── data/              # Myanmar language datasets
+├── notebooks/         # Jupyter notebooks
+└── burmeai/           # Main Python package
+    ├── __init__.py    
+    ├── preprocess.py   # Text preprocessing
+    └── model.py       # AI model code
+```
